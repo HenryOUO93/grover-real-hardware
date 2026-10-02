@@ -47,9 +47,10 @@ $$P(k)=\sin^2\big((2k+1)\theta\big),\qquad \sin\theta=\sqrt{M/N}$$
 
 隨機猜中的機率：3 位元為 1/8（12.5%），4 位元為 1/16（約 6.3%）。
 
-<!-- 有圖的話放這裡，例如：
+
 ![Simulator k=2](sim_k2.png)
--->
+![ibm_kingston k=2](real_k2.png)
+
 
 ## 觀察
 
